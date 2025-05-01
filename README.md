@@ -52,13 +52,26 @@
 
 ---
 
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravencrest-01&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-  <br/>
-  <!-- GitHub Streak -->
-  <img src="https://streak-stats.demolab.com?user=Ravencrest-01&hide_border=true" alt="GitHub Streak"/>
-</p>
+---
+
+### 🚀 Featured Projects&nbsp;&nbsp;|&nbsp;&nbsp;🌐 Portfolio  
+<a href="https://ritik.codes" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20my%20Portfolio-ritik.codes-%23f58442?style=for-the-badge"/>
+</a>
+
+<div align="center">
+
+[![CrowdSourced-Disaster-Relief](https://github-readme-stats.vercel.app/api/pin/?username=Ravencrest-01&repo=CrowdSourced-Disaster-Relief&hide_border=true)](https://github.com/Ravencrest-01/CrowdSourced-Disaster-Relief)
+[![journey_optimization_project](https://github-readme-stats.vercel.app/api/pin/?username=Ravencrest-01&repo=journey_optimization_project&hide_border=true)](https://github.com/Ravencrest-01/journey_optimization_project)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ravencrest-01&repo=Portfolio&hide_border=true)](https://github.com/Ravencrest-01/Portfolio)
+[![PriorityPass](https://github-readme-stats.vercel.app/api/pin/?username=Ravencrest-01&repo=PriorityPass&hide_border=true)](https://github.com/Ravencrest-01/PriorityPass)
+
+[![whatsapp-bot](https://github-readme-stats.vercel.app/api/pin/?username=Ravencrest-01&repo=whatsapp-bot&hide_border=true)](https://github.com/Ravencrest-01/whatsapp-bot)
+[![F1-Model](https://github-readme-stats.vercel.app/api/pin/?username=Ravencrest-01&repo=F1-Model&hide_border=true)](https://github.com/Ravencrest-01/F1-Model)
+
+</div>
+
 
 ---
 
