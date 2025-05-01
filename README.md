@@ -54,10 +54,7 @@
 
 ---
 
-### 🚀 Featured Projects&nbsp;&nbsp;|&nbsp;&nbsp;🌐 Portfolio  
-<a href="https://ravencrest-01.github.io/Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/Visit%20my%20Portfolio-ritik.codes-%23f58442?style=for-the-badge"/>
-</a>
+### 🚀 Featured Projects&nbsp;&nbsp;|&nbsp;&nbsp; 
 
 <div align="center">
 
