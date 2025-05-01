@@ -1,60 +1,69 @@
 <!-- GitHub Profile README – Ravencrest-01 -->
 
-<h1 align="center">Hi there, I'm Ritik Kumar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h1>
+<h1 align="center">
+  Hey there, I'm Ritik Kumar&nbsp;
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/>
+</h1>
 
 <p align="center">
   <a href="mailto:ritiksingh1859@email.com">Email</a> •
-  <a href="https://www.linkedin.com/in/raven-ritik">LinkedIn</a> •
+  <a href="https://linkedin.com/in/raven-ritik">LinkedIn</a> •
   <a href="https://github.com/Ravencrest-01">GitHub</a>
 </p>
 
 ---
 
-### 👨‍💻 About Me 
-- 🎓 Computer-Science undergrad (Chandigarh University, 2021-2025)&#8203;:contentReference[oaicite:0]{index=0}&#8203;:contentReference[oaicite:1]{index=1}  
-- 🏆 Winner – Emergency Vehicle Guidance System (Panjab Univ.) & Top-10 Electrothon finalist&#8203;:contentReference[oaicite:2]{index=2}&#8203;:contentReference[oaicite:3]{index=3}  
-- 🔭 Building **LogRead** (Letterboxd for Books) & **KodeSocial**, a dev-centric social platform  
-- 🌱 Current focus: backend architecture, MERN/Django, and IoT tinkering  
-- 📚 Love writing clean documentation, mentoring peers, and hacking weekend projects  
+### 👨‍💻 About Me
+- 🎓 **Computer-Science undergrad, Chandigarh University (2021 – 2025)**
+- 🏆 Winner – *Coffee & Code* (Panjab Univ.) & Top-10 **Electrothon** finalist
+- 🔭 Building **Invike** (event-invite app) & **F1-Winner Predictor** (neural-net race forecasts)
+- 🌱 Deep-diving into backend architecture, MERN/Django ecosystems, and IoT tinkering
+- 📚 Advocate of clean docs, peer mentoring, and weekend hack-projects
 
 ---
 
 ### 🛠️ Tech Toolkit
-![Python](https://img.shields.io/badge/-Python-informational?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-informational?style=flat&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-informational?style=flat&logo=c%2b%2b&logoColor=white)
-![React](https://img.shields.io/badge/-React-informational?style=flat&logo=react&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-informational?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-informational?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-informational?style=flat&logo=docker&logoColor=white)
-![Shopify (Liquid)](https://img.shields.io/badge/-Shopify Liquid-informational?style=flat&logo=shopify&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MongoDB Compass](https://img.shields.io/badge/Compass-47A248?style=flat&logo=mongodb&logoColor=white)
+![MongoDB Atlas](https://img.shields.io/badge/Atlas-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Shopify Liquid](https://img.shields.io/badge/Shopify%20Liquid-95BF47?style=flat&logo=shopify&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit-learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
 
-> _“Code wins arguments, but clean code wins maintainers.”_
+> *“Code wins arguments—but clean code wins **maintainers**.”*
 
 ---
 
 ### 🚀 Featured Projects
 | Project | Stack | Highlights |
 |---------|-------|-----------|
-| **KodeSocial** | MERN | Real-time code compiler, social media & secure auth for dev community |
-| **PriorityPass** | Python · ESP32 | IoT traffic control that cuts emergency response times |
-| **CrowdSourced-Disaster-Relief** | React · MongoDB | An application designed to help communities efficiently report disasters, shelters, and available resources |
+| **KodeSocial** | MERN | Real-time code compiler, social feeds & secure auth for devs |
+| **PriorityPass** | Python · ESP32 | IoT traffic control reducing emergency response times |
+| **CrowdSourced-Disaster-Relief** | React · MongoDB | Community app to report disasters, shelters & resources |
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ravencrest-01&show_icons=true&hide_border=true" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ravencrest-01&show_icons=true&hide_border=true" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravencrest-01&hide_border=true" alt="Streak Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravencrest-01&hide_border=true" alt="Streak Stats"/>
 </p>
 
 ---
 
 ### 🤝 Let’s Connect
-- Drop a line via **ritiksingh1859@email.com**
-- Connect on **LinkedIn**: <https://linkedin.com/in/raven-ritik>
-- Check my **Dev notes & gists** right here on GitHub
+- Drop a line → **ritiksingh1859@email.com**
+- DM on **LinkedIn** → <https://linkedin.com/in/raven-ritik>
+- Peek my **dev notes & gists** right here on GitHub
 
-<sub>_This README is a living document—updates welcome!_</sub>
+<sub>_This README is a living document—updates always welcome!_</sub>
