@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="mailto:ritiksingh1859@email.com">Email</a> •
-  <a href="https://linkedin.com/in/raven-ritik">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ritik-kumar-dev/">LinkedIn</a> •
   <a href="https://github.com/Ravencrest-01">GitHub</a>
 </p>
 
