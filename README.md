@@ -52,6 +52,15 @@
 
 ---
 
+### 👁️ Visitor Counter
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=Ravencrest-01&label=Profile%20views&color=0e75b6&style=flat-square"
+    alt="Profile view counter"
+  />
+</p>
+
 ---
 
 ### 🚀 Featured Projects&nbsp;&nbsp;|&nbsp;&nbsp; 
