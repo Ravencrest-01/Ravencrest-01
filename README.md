@@ -16,7 +16,6 @@
 ### 👨‍💻 About Me
 - 🎓 **Computer-Science undergrad, Chandigarh University (2021 – 2025)**
 - 🏆 Winner – *Coffee & Code* (Panjab Univ.) & Top-10 **Electrothon** finalist
-- 🔭 Building **Invike** (event-invite app) & **F1-Winner Predictor** (neural-net race forecasts)
 - 🌱 Deep-diving into backend architecture, MERN/Django ecosystems, and IoT tinkering
 - 📚 Advocate of clean docs, peer mentoring, and weekend hack-projects
 
