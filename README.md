@@ -69,7 +69,7 @@
 [![CrowdSourced-Disaster-Relief](https://github-readme-stats.vercel.app/api/pin/?username=Ravencrest-01&repo=CrowdSourced-Disaster-Relief&hide_border=true)](https://github.com/Ravencrest-01/CrowdSourced-Disaster-Relief)
 [![journey_optimization_project](https://github-readme-stats.vercel.app/api/pin/?username=Ravencrest-01&repo=journey_optimization_project&hide_border=true)](https://github.com/Ravencrest-01/journey_optimization_project)
 
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=Ravencrest-01&repo=Website-Portfolio&hide_border=true)](https://github.com/Ravencrest-01/Website-Portfolio)
+
 [![PriorityPass](https://github-readme-stats.vercel.app/api/pin/?username=Ravencrest-01&repo=PriorityPass&hide_border=true)](https://github.com/Ravencrest-01/PriorityPass)
 
 [![whatsapp-bot](https://github-readme-stats.vercel.app/api/pin/?username=Ravencrest-01&repo=whatsapp-bot&hide_border=true)](https://github.com/Ravencrest-01/whatsapp-bot)
@@ -82,7 +82,7 @@
 
 ### 🤝 Let’s Connect
 - Drop a line → **ritiksingh1859@email.com**
-- DM on **LinkedIn** → <https://linkedin.com/in/raven-ritik>
+- DM on **LinkedIn** → <https://www.linkedin.com/in/ritik-kumar-dev>
 - Peek my **dev notes & gists** right here on GitHub
 
 <sub>_This README is a living document—updates always welcome!_</sub>
