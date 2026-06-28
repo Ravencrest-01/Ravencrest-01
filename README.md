@@ -1,11 +1,12 @@
-<!-- GitHub Profile README – Ravencrest-01 -->
-
 <h1 align="center">
   Hey there, I'm Ritik Kumar&nbsp;
   <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="28"/>
 </h1>
 
 <p align="center">
+  <a href="https://ravencrest.space">
+    <img src="https://img.shields.io/badge/Portfolio-ravencrest.space-purple?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:ritiksingh1859@email.com">
     <img src="https://img.shields.io/badge/Email-ritiksingh1859%40email.com-blue?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -57,7 +58,7 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
 <br/>
@@ -97,18 +98,13 @@
 ### 📈 Activity & Trends
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ravencrest-01&theme=react-dark&bg_color=0d1117&hide_border=true" width="100%" alt="Ritik's Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ravencrest-01&theme=dark&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 ---
 
 ### 🤝 Let’s Connect
+- 🌐 Explore my projects & live demos → [ravencrest.space](https://ravencrest.space)
 - 📧 Drop a line → **ritiksingh1859@email.com**
 - 💼 DM on **LinkedIn** → [linkedin.com/in/ritik-kumar-dev/](https://www.linkedin.com/in/ritik-kumar-dev/)
 - 💻 Peek my **dev notes & gists** right here on GitHub
