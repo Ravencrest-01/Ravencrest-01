@@ -22,7 +22,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 **MSc Computer Science**, Philipps-Universität Marburg, Germany *(2025 – present)*
+- 🎓 **MSc Computer Science**, Philipps-Universität Marburg, Germany *(2026 – present)*
 - 🧑‍🎓 **B.E. Computer Science**, Chandigarh University *(2021 – 2025)*
 - 🏆 Winner – *Coffee & Code* (Panjab Univ.) & Top-10 **Electrothon** finalist
 - 🔬 Currently working across **NLP / applied ML** (transformers, cross-encoders) and **full-stack** (MERN, React/Vite)
