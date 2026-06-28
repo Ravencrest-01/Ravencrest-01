@@ -30,15 +30,6 @@
 
 ---
 
-### 🏆 GitHub Trophies
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ravencrest-01&theme=radical&column=7&margin-w=15&no-bg=true" alt="Ritik's GitHub Trophies" />
-  </a>
-</div>
-
----
-
 ### 🛠️ Tech Toolkit
 
 #### **Languages**
