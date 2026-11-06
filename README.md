@@ -4,116 +4,84 @@
  ____    ___     _______ _   _  ____ ____  _____ ____ _____ 
 |  _ \  / \ \   / / ____| \ | |/ ___|  _ \| ____/ ___|_   _|
 | |_) |/ _ \ \ / /|  _| |  \| | |   | |_) |  _| \___ \ | |  
-|  _ </ ___ \ V / | |___| |\  | |___|  _ <| |___ ___) || |  
-|_| \_\_/   \_\_/ |_____|_| \_|\____|_| \_\_____|____/ |_|  
+|  _ < / ___ \ V / | |___| |\  | |___|  _ <| |___ ___) || |  
+|_| \_\_/   \_\_/  |_____|_| \_|\____|_| \_\_____|____/ |_|  
 ```
-
-**Ritik Kumar (Raven)** — Software Engineer  
-React Dashboards · Industrial IoT · Real-Time Data Visualization
-
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ravencrest.space-0F172A?style=flat-square&labelColor=1E293B)](https://ravencrest.space)
-[![GitHub](https://img.shields.io/badge/GITHUB-Ravencrest--01-0F172A?style=flat-square&labelColor=1E293B)](https://github.com/Ravencrest-01)
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-ritik--kumar--dev-0F172A?style=flat-square&labelColor=1E293B)](https://linkedin.com/in/ritik-kumar-dev)
-[![Status](https://img.shields.io/badge/AVAILABILITY-Werkstudent_(20h%2Fw)_%2F_Remote-065F46?style=flat-square&labelColor=1E293B)](mailto:contact@ravencrest.space)
-
 </div>
 
----
-
-### `raven@marburg:~$ whoami --profile`
-
+### `raven@marburg:~$ whoami`
 ```text
-USER       : Ritik Kumar (Raven)
-LOCATION   : Marburg, Hesse, Germany (Relocated from India, 2026)
-EDUCATION  : M.Sc. Computer Science @ Philipps-Universität Marburg
-             B.E. Computer Science @ Chandigarh University (CGPA: 8.01)
-FOCUS      : Industrial IoT Cockpits, Real-Time Telemetry, Full-Stack Systems
-PRACTICE   : Independent Full-Stack Engineering & Technical Consulting
-AVAILABILITY: Open to Werkstudent roles (~20h/week, Marburg–Frankfurt) & Remote SWE
-LANGUAGES  : English (C1, IELTS 7.5) | German (Active study, targeting Goethe B1)
+NAME       : Ritik Kumar (Raven)
+TITLE      : Software Engineer
+SPECIALTY  : Industrial IoT Dashboards & Real-Time Data Visualization
+LOCATION   : Marburg, Hesse, DE (Relocated 2026)
+EDUCATION  : MSc Computer Science @ Philipps-Universität Marburg
+             B.E. Computer Science @ Chandigarh University (CGPA 8.01)
+STATUS     : Seeking Werkstudent (~20h/w) in Marburg-Frankfurt / Remote SWE
+LANGUAGES  : English (C1, IELTS 7.5), German (Targeting Goethe B1)
 ```
 
----
+### `raven@marburg:~$ cat ~/.config/network_links`
+* **Portfolio** : [ravencrest.space](https://ravencrest.space)
+* **GitHub**    : [github.com/Ravencrest-01](https://github.com/Ravencrest-01)
+* **LinkedIn**  : [linkedin.com/in/ritik-kumar-dev](https://linkedin.com/in/ritik-kumar-dev)
 
-### `raven@marburg:~$ cat /proc/current_focus`
-
-```diff
-+ [ACTIVE] SeeDoc (seedoc.cloud) — Industrial Machine-Service Platform
-  Rebuilding the core B2B platform for a German industrial machine-service startup.
-  Architecture : Per-machine QR digital twins linking to manuals & service history,
-                 AI-assisted maintenance logging, and an OEM management dashboard.
-
-+ [R&D] Predictive Maintenance & Anomaly Telemetry
-  Building Industrial IoT dashboards with live sensor streams and real-time anomaly scoring.
-```
-
----
-
-### `raven@marburg:~$ ./skills --list`
-
+### `raven@marburg:~$ tail -f /var/log/active_processes.log`
 ```text
-FRONTEND       [██████████████████░░]  React, TypeScript, Vite, Zustand, Tailwind CSS, Framer Motion
-BACKEND & DATA [█████████████████░░░]  Python, FastAPI, Node.js, Express, WebSockets, PostgreSQL
-ML & NLP       [████████████████░░░░]  PyTorch, HuggingFace Transformers, Ollama (Local LLMs), RAG
-DSP & HARDWARE [████████████████░░░░]  Signal Processing (DSP), JPEG/DCT Compression, Arduino, ESP32
-WORKFLOW & OPS [██████████████████░░]  Multi-Agent Coordination (AGENTS.md), Obsidian, Vercel, LaTeX
+[PID 4012] REBUILDING : Platform for SeeDoc (seedoc.cloud) - B2B Industrial Machine-Service
+           PIPELINE   : Per-machine QR digital twins, AI maintenance logging, OEM dashboard
+[PID 4013] R&D        : Industrial IoT Dashboards
+           PIPELINE   : Prototyping predictive maintenance models with live telemetry anomaly scoring
 ```
 
----
+### `raven@marburg:~$ cat /etc/sysconfig/tech_stack.ini`
+```ini
+[FRONTEND]
+frameworks = React, Next.js, Vite
+state      = Zustand
+styling    = Tailwind CSS, Framer Motion
+graphics   = Three.js, HTML5 Canvas API
+
+[BACKEND_AND_DATA]
+languages  = Python, Node.js, TypeScript
+frameworks = FastAPI, Express
+protocols  = WebSockets, REST APIs
+databases  = PostgreSQL
+
+[MACHINE_LEARNING_AND_DSP]
+libraries  = PyTorch, HuggingFace Transformers
+llm_ops    = Ollama (Local LLMs), Semantic Retrieval (RAG)
+signal_proc= DSP, JPEG/DCT Compression
+
+[HARDWARE_AND_OPS]
+iot        = Arduino, ESP32 Microcontrollers
+deploy     = Vercel, Docker
+workflow   = Multi-Agent Coordination (AGENTS.md), Obsidian, LaTeX
+```
 
 ### `raven@marburg:~$ ls -l ./featured_projects/`
 
-<details open>
-<summary><b>01 // GridSight — Real-Time Energy Grid Monitoring Dashboard</b></summary>
-<br>
+* **[GridSight](#)** — Real-Time Energy Grid Monitoring Dashboard
+  * **Stack:** Vite, React, Zustand, FastAPI, WebSockets
+  * **Details:** Streams simulated grid telemetry across Dashboard, Topology, Flow, Alerts, and Devices views. Ships with a client-side mock mode for zero-backend Vercel deployment.
 
-High-frequency telemetry cockpit designed for monitoring power grid state and device topology.
-* **Stack:** Vite, React, TypeScript, Zustand, FastAPI, WebSockets.
-* **Architecture:** Streams simulated grid telemetry over WebSockets across five views (`Dashboard`, `Topology`, `Flow`, `Alerts`, `Devices`). Ships with a client-side mock mode by default so the Vercel deployment runs standalone without backend infrastructure.
-* **Links:** `[Demo / Repository — Pending]`
-</details>
+* **[The Sentinel](https://sentinel.ravencrest.space)** — Forensic DSP & Compression Simulator
+  * **Stack:** React, Vite, HTML5 Canvas, Web Audio API
+  * **Details:** Browser-based image and audio forensic restoration utilizing frequency-domain transforms and a custom JPEG/DCT compression module.
 
-<details open>
-<summary><b>02 // The Sentinel — Forensic DSP & Compression Simulator</b></summary>
-<br>
+* **[Supermind](#)** — Local-First Personal AI & Obsidian RAG Engine
+  * **Stack:** React PWA, Node/Express, Ollama (qwen2.5 7B, qwen2.5-VL 3B)
+  * **Details:** Semantic retrieval over a local Obsidian vault using `nomic-embed-text` and cosine similarity. Features a 1-hop wikilink graph expansion and a classify-to-summarize write-back pipeline, running entirely within a 6GB VRAM envelope.
 
-Interactive digital signal processing application for image and audio forensic analysis.
-* **Stack:** React, Vite, HTML5 Canvas, Web Audio API.
-* **Architecture:** Originated as a validated single-file HTML tool before being ported to a modular React architecture featuring a custom JPEG / Discrete Cosine Transform (DCT) compression inspection module.
-* **Production:** [sentinel.ravencrest.space](https://sentinel.ravencrest.space)
-</details>
+* **[ITC-Rec Engine](#)** — Automated GST Tax Reconciliation SaaS
+  * **Stack:** React, FastAPI, PostgreSQL
+  * **Details:** High-throughput matching engine routing commercial invoices into matched, mismatched, and probable discrepancy buckets.
 
-<details open>
-<summary><b>03 // Supermind — Local-First Personal AI & Obsidian RAG Engine</b></summary>
-<br>
+* **[AmbiStory](#)** — SemEval-2026 Task 5 NLP Benchmark
+  * **Stack:** Python, PyTorch, HuggingFace
+  * **Details:** Research implementation evaluating graded human plausibility in ambiguous narratives via a fine-tuned DeBERTa-v3 cross-encoder regressor.
 
-Private knowledge retrieval and synthesis engine operating strictly on local hardware (6 GB VRAM budget).
-* **Stack:** React PWA, Node.js/Express, Ollama (`qwen2.5:7b`, `qwen2.5-vl:3b`, `nomic-embed-text`).
-* **Architecture:** Interfaces directly with a local Obsidian vault. Implements custom cosine similarity search, 1-hop wikilink graph expansion, and an automated `classify -> summarize` write-back pipeline without external vector database overhead.
-</details>
-
-<details>
-<summary><b>04 // ITC-Rec Engine — Automated GST Reconciliation SaaS</b></summary>
-<br>
-
-B2B financial data pipeline for automated tax ledger reconciliation.
-* **Stack:** React, FastAPI, PostgreSQL.
-* **Architecture:** High-throughput matching engine that parses and categorizes commercial invoices into `Matched`, `Mismatched`, `Missing-in-Portal`, `Missing-in-Books`, and `Probable` buckets.
-</details>
-
-<details>
-<summary><b>05 // AmbiStory — SemEval-2026 Task 5 NLP Benchmark</b></summary>
-<br>
-
-Shared-task research implementation evaluating graded human plausibility in ambiguous narratives.
-* **Stack:** Python, PyTorch, HuggingFace Transformers (DeBERTa-v3).
-* **Links:** `[Repository — Pending]`
-</details>
-
----
-
-### `raven@marburg:~$ env | grep INTERESTS`
-
+### `raven@marburg:~$ printenv | grep -i HOBBIES`
 ```text
-HOBBIES="Hardware prototyping with IoT microcontrollers, Formula 1, Football, Anime"
+HOBBIES="Hardware IoT Dev, Formula 1, Football, Anime"
 ```
